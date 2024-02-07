@@ -1,0 +1,26 @@
+# .gitignore
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Local configuration files
+.DS_Store
