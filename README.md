@@ -41,7 +41,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-- Your Name
+- Rao Hamza Tariq
 - Email: raohamza6767@gmail.com
 - LinkedIn: [Rao Hamza Tariq](https://www.linkedin.com/in/rao-hamza-tariq/)
 - Twitter: [@rao_hamza_tariq](https://twitter.com/rao_hamza_tariq)
