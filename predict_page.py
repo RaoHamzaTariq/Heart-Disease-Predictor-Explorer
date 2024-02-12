@@ -14,7 +14,7 @@ model_saved = load_model()
 
 def show_predict_page():
     st.title("Heart Disease Prediction")
-    st.write("""## We need some information to predict the heart disease""")
+    st.write("""### We need some information to predict the heart disease""")
 
     sex = ['Male', 'Female']
     restecg = ['Normal', 'ST-T wave abnormality', 'Probable or definite LVH']
