@@ -1,12 +1,11 @@
-
 import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt 
 
 def show_explore_page():
-    st.title("Explore the Heart Data")
-    st.write("""## Unleash the transformative insights and patterns""")
+    st.title("Explore the Heart Disease Data")
+    st.write("""### Unleash the transformative insights and patterns""")
 
     df = pd.read_csv('heart_disease_data.csv')
 
