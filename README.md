@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 1. Install dependencies using `pip install -r requirements.txt`.
 2. Run the Streamlit app with `streamlit run app.py`.
-3. Access the app in your browser at [http://localhost:8501](http://localhost:8501).
+3. Access the app in your browser at [https://cardio-ml-model.streamlit.app/](https://cardio-ml-model.streamlit.app/)).
 
 ## Usage Examples
 
